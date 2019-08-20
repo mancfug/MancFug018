@@ -1,0 +1,6 @@
+Microsoft.AspNetCore.App
+Giraffe
+Microsoft.Azure.CognitiveServices.Search.WebSearch
+TaskBuilder.fs
+FSharp.Core
+FsConfig
